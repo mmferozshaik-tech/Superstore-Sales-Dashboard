@@ -5,6 +5,7 @@ An interactive Microsoft Excel dashboard built using the Superstore dataset to a
 
 ## Tools Used
 - Microsoft Excel
+- Power Query
 - Pivot Tables
 - Pivot Charts
 - Slicers
