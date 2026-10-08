@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard
+# Excel--Superstore Sales Dashboard
 
 ## Project Overview
 An interactive Microsoft Excel dashboard built using the Superstore dataset to analyze sales performance and business trends.
